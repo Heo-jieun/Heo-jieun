@@ -6,6 +6,8 @@ Hello! I'm passionate about Data Science, currently focusing on learning Data An
 ## 🛠️ Tech Stack
 - Programming Languages: Python
 - Libraries & Tools: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 ## 🚀 Current Progress
 - Studying Data Visualization
 ## 🎯 Goals
